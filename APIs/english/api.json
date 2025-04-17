@@ -11,16 +11,16 @@
           "video_url":
           "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
           "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
         },
         {
           "title": "Tina’s First Day at School",
           "video_url":
           "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
           "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
         }
-      ],
+      ]
     },
     {
       "name": "Audio Tales",
@@ -31,9 +31,9 @@
           "video_url":
               "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
           "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
         }
-      ],
+      ]
     },
     {
       "name": "Inspirational",
@@ -44,16 +44,16 @@
           "video_url":
           "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
           "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
         },
         {
           "title": "Never Give Up",
           "video_url":
           "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
           "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
         }
-      ],
+      ]
     },
     {
       "name": "Rhymes",
@@ -64,9 +64,9 @@
           "video_url":
           "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
           "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
         }
-      ],
+      ]
     },
     {
       "name": "God",
@@ -77,9 +77,9 @@
           "video_url":
           "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
           "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
         }
-      ],
-    },
-  ],
+      ]
+    }
+  ]
 }
