@@ -1,83 +1,71 @@
-"status": "success",
-  "app_name": "Kids Story Videos",
-  "categories": [
-    {
-      "name": "Slider",
-      "type": "slider",
-      "videos": [
+{
+    "status": "success",
+    "app_name": "Kids Story Videos",
+    "categories": [
         {
-          "title": "The Magical Jungle Adventure",
-          "video_url":
-          "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-          "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
+            "name": "Slider",
+            "type": "slider",
+            "videos": [
+                {
+                    "title": "The Magical Jungle Adventure",
+                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
+                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
+                },
+                {
+                    "title": "Tina’s First Day at School",
+                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
+                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
+                }
+            ]
         },
         {
-          "title": "Tina’s First Day at School",
-          "video_url":
-          "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-          "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
-        },
-      ],
-    },
-    {
-      "name": "Audio Tales",
-      "type": "category",
-      "videos": [
-        {
-          "title": "The Lazy Donkey",
-          "video_url":
-              "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-          "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
-        },
-      ],
-    },
-    {
-      "name": "Inspirational",
-      "type": "category",
-      "videos": [
-        {
-          "title": "You Can Do It!",
-          "video_url":
-          "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-          "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
+            "name": "Audio Tales",
+            "type": "category",
+            "videos": [
+                {
+                    "title": "The Lazy Donkey",
+                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
+                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
+                }
+            ]
         },
         {
-          "title": "Never Give Up",
-          "video_url":
-          "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-          "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
+            "name": "Inspirational",
+            "type": "category",
+            "videos": [
+                {
+                    "title": "You Can Do It!",
+                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
+                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
+                },
+                {
+                    "title": "Never Give Up",
+                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
+                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
+                }
+            ]
         },
-      ],
-    },
-    {
-      "name": "Rhymes",
-      "type": "category",
-      "videos": [
         {
-          "title": "Twinkle Twinkle Little Star",
-          "video_url":
-          "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-          "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
+            "name": "Rhymes",
+            "type": "category",
+            "videos": [
+                {
+                    "title": "Twinkle Twinkle Little Star",
+                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
+                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
+                }
+            ]
         },
-      ],
-    },
-    {
-      "name": "God",
-      "type": "category",
-      "videos": [
         {
-          "title": "Krishna and the Butter Pot",
-          "video_url":
-          "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-          "thumbnail_url":
-          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png",
-        },
-      ],
-    },
-  ],
+            "name": "God",
+            "type": "category",
+            "videos": [
+                {
+                    "title": "Krishna and the Butter Pot",
+                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
+                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
+                }
+            ]
+        }
+    ]
+}
