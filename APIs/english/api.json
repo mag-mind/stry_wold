@@ -1,71 +1,83 @@
 {
-    "status": "success",
-    "app_name": "Kids Story Videos",
-    "categories": [
+"status": "success",
+  "app_name": "Kids Story Videos",
+  "categories": [
+    {
+      "name": "Slider",
+      "type": "slider",
+      "videos": [
         {
-            "name": "Slider",
-            "type": "slider",
-            "videos": [
-                {
-                    "title": "The Magical Jungle Adventure",
-                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
-                },
-                {
-                    "title": "Tina’s First Day at School",
-                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
-                }
-            ]
+          "title": "डेज़ी और सपनो का आकाश",
+          "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/hindi/%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%20youtube%20.mp4",
+          "thumbnail_url":
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/hindi/thumbnail%20(2).png"
         },
         {
-            "name": "Audio Tales",
-            "type": "category",
-            "videos": [
-                {
-                    "title": "The Lazy Donkey",
-                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
-                }
-            ]
+          "title": "डेज़ी और सपनो का आकाश ",
+          "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/hindi/%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%20youtube%20.mp4",
+          "thumbnail_url":
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/hindi/thumbnail%20(2).png"
         },
         {
-            "name": "Inspirational",
-            "type": "category",
-            "videos": [
-                {
-                    "title": "You Can Do It!",
-                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
-                },
-                {
-                    "title": "Never Give Up",
-                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
-                }
-            ]
-        },
-        {
-            "name": "Rhymes",
-            "type": "category",
-            "videos": [
-                {
-                    "title": "Twinkle Twinkle Little Star",
-                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
-                }
-            ]
-        },
-        {
-            "name": "God",
-            "type": "category",
-            "videos": [
-                {
-                    "title": "Krishna and the Butter Pot",
-                    "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/english/Daisy%20the%20Flying%20Dinosaur%20and%20the%20Sky%20of%20Dreams~2.mp4",
-                    "thumbnail_url": "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/english/daisy%20and%20flying%20dino%20thumbnail.png"
-                }
-            ]
+          "title": "डेज़ी और सपनो का आकाश ",
+          "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/hindi/%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%20youtube%20.mp4",
+          "thumbnail_url":
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/hindi/thumbnail%20(2).png"
         }
-    ]
-}
+      ]
+    },
+    {
+      "name": "Audio Tales",
+      "type": "category",
+      "videos": [
+        {
+          "title": "डेज़ी और सपनो का आकाश ",
+          "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/hindi/%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%20youtube%20.mp4",
+          "thumbnail_url":
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/hindi/thumbnail%20(2).png"
+        }
+      ]
+    },
+    {
+      "name": "Inspirational",
+      "type": "category",
+      "videos": [
+        {
+          "title": "डेज़ी और सपनो का आकाश",
+          "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/hindi/%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%20youtube%20.mp4",
+          "thumbnail_url":
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/hindi/thumbnail%20(2).png"
+        }
+      ]
+    },
+    {
+      "name": "Rhymes",
+      "type": "category",
+      "videos": [
+        {
+          "title": "डेज़ी और सपनो का आकाश",
+          "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/hindi/%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%20youtube%20.mp4",
+          "thumbnail_url":
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/hindi/thumbnail%20(2).png"
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "category",
+      "videos": [
+        {
+          "title": "डेज़ी और सपनो का आकाश",
+          "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/hindi/%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%20youtube%20.mp4",
+          "thumbnail_url":
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/hindi/thumbnail%20(2).png"
+        },
+        {
+          "title": "डेज़ी और सपनो का आकाश",
+          "video_url": "https://github.com/mag-mind/stry_wold/raw/refs/heads/main/APIs/hindi/%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%20youtube%20.mp4",
+          "thumbnail_url":
+          "https://raw.githubusercontent.com/mag-mind/stry_wold/refs/heads/main/APIs/hindi/thumbnail%20(2).png"
+        }
+      ]
+    }
+  ]}
